@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 13248,
+  "expoServerNgrokUrl": "https://ad-z23.anonymous.the-shop.exp.direct",
+  "packagerNgrokUrl": "https://packager.ad-z23.anonymous.the-shop.exp.direct",
+  "ngrokPid": 13261
 }
